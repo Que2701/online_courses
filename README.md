@@ -1,2 +1,2 @@
-# online_courses
+# online courses
 documents generated from specific online 
